@@ -1,5 +1,15 @@
 # rplay-hub-android
 
+- Setup
+```bash
+yay -S debtap
+git clone -b pkgbuild https://github.com/yofriendfromschool1/rplayhub-android-Arch-PKGBUILD
+cd rplayhub-android-Arch-PKGBUILD
+makepkg -si
+```
+# NOTE
+- If you're having trouble with dependencies just install them with pacman or aur (yay or paru)  
+
 [![Latest release](https://img.shields.io/github/v/release/rPlayAI/rplayhub-android?label=download&color=2ea44f)](https://github.com/rPlayAI/rplayhub-android/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/rPlayAI/rplayhub-android/total?color=blue)](https://github.com/rPlayAI/rplayhub-android/releases)
 [![Platform](https://img.shields.io/badge/platform-macOS%2013%2B%20%7C%20Linux%20x86__64-lightgrey)](https://github.com/rPlayAI/rplayhub-android/releases)
