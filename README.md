@@ -8,7 +8,11 @@ cd rplayhub-android-Arch-PKGBUILD
 makepkg -si
 ```
 # NOTE
-- If you're having trouble with dependencies just install them with pacman or aur (yay or paru)  
+- If you're having trouble with dependencies just install them with pacman or aur (yay or paru)
+- Launching it
+```bash
+rplayhub-android
+```
 
 [![Latest release](https://img.shields.io/github/v/release/rPlayAI/rplayhub-android?label=download&color=2ea44f)](https://github.com/rPlayAI/rplayhub-android/releases/latest)
 [![Downloads](https://img.shields.io/github/downloads/rPlayAI/rplayhub-android/total?color=blue)](https://github.com/rPlayAI/rplayhub-android/releases)
